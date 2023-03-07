@@ -2,7 +2,7 @@ package RhombusOfStars;
 
 import java.util.Scanner;
 
-public class Main {
+public class k01rhombusOfStars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
