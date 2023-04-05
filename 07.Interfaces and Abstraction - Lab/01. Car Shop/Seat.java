@@ -7,7 +7,7 @@ public class Seat implements Car {
     private Integer hp;
     private String country;
 
-    public Seat(String model, String color, int hp, String country) {
+    public Seat(String model, String color, Integer hp, String country) {
         this.model = model;
         this.color = color;
         this.hp = hp;
